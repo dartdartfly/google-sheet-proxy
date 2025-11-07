@@ -78,4 +78,3 @@ export default async function handler(req, res) {
     return bad(res, 500, 'sheets error', { detail });
   }
 }
-
